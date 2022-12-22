@@ -1,0 +1,10 @@
+[{"id":1,"company_name":"Oba","state":null,"no_of_employees":236},
+{"id":2,"company_name":"Gigazoom","state":null,"no_of_employees":896},
+{"id":3,"company_name":"Avavee","state":null,"no_of_employees":793},
+{"id":4,"company_name":"Skiptube","state":null,"no_of_employees":603},
+{"id":5,"company_name":"Yambee","state":"Skåne","no_of_employees":1813},
+{"id":6,"company_name":"Feedfish","state":"Arkansas","no_of_employees":1754},
+{"id":7,"company_name":"Devpoint","state":null,"no_of_employees":524},
+{"id":8,"company_name":"Dabjam","state":null,"no_of_employees":793},
+{"id":9,"company_name":"Twinder","state":"Nord-Pas-de-Calais","no_of_employees":81},
+{"id":10,"company_name":"Aibox","state":null,"no_of_employees":1029}]
